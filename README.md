@@ -1,4 +1,5 @@
-Library Management System
+Library Management System📚📚📚
+
 A console-based application built in Java with MySQL, developed using Eclipse IDE.
 
 Overview:
@@ -6,18 +7,18 @@ The Library Management System is a console-based application developed to simpli
 Designed with versatility and efficiency in mind, this system provides two distinct user roles which are Admin and Student. 
 Each role comes with a tailored set of features to meet their specific needs.. It features two login modes:
 
-Admin
-Student
+i .Admin
+ii. Student
 
 Key Features:
 
-Admin
+i. Admin
 Add new books to the library.
 Edit book details.
 Register students.
 Provide feedback.
 
-Student
+ii. Student
 View available books.
 Search for specific books.
 Provide feedback.
